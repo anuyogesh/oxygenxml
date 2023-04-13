@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xw2_wl1_dxb">
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+            <?oxy_comment_start author="Anu.Yogesh" timestamp="20230413T161807+0530" comment="Testing"?>
+        </context><?oxy_comment_end?>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>
