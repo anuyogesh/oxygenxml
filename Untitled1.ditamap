@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topicref href="untitled2.dita">
+        <topicref href="example_hierarchy.dita">
+            <topicref href="conversion.dita">
+                <topicref href="to_pdf.dita">
+                    <topicref href="first.dita"/>
+                    <topicref href="replacement.dita"/>
+                </topicref>
+                <topicref href="to_html.dita"/>
+                <topicref href="on_windows.dita"/>
+            </topicref>
+            <topicref href="installation.dita">
+                <topicref href="on_mac.dita">
+                    <topicref href="special_considerations.dita">
+                        <topicref href="untitled3.dita"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

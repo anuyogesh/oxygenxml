@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <!-- ... -->
+    <keydef keys="xmp" href="examples.dita"/>
+    <!-- ... -->
+</map>
+
+examples.dita:
+<topic id="examples">
+    <title>These are examples</title>
+    <body>
+        <ul>
+            <li id="first">A first example</li>
+            <li>Another trivial example</li>
+            <li id="last">Final example</li>
+        </ul>
+    </body>
+</topic>

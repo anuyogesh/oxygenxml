@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="examples">
+    <title>These are examples</title>
+    <body>
+        <ul>
+            <li id="first">A first example</li>
+            <li>Another trivial example</li>
+            <li id="last">Final example</li>
+            <li conkeyref="xmp/first" 
+                conrefend="default.dita#default/last"/>
+        </ul>
+        
+    </body>
+</topic>
