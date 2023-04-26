@@ -5,9 +5,8 @@
             <leafnode>
                                 This is the leaf node of this hierarchy Sujan
                 line2 -- line6   commit1
-                line3 -- line7   commit 2 line8 -- commit 3 
-                line4 -- line8   commit 3
-                line5 -- line9   commit 4
+                line3 -- line7   commit 2  
+                
             </leafnode>
         </parent2>
     </parent1>
