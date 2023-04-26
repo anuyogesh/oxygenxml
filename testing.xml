@@ -3,9 +3,7 @@
     <parent1>
         <parent2>
             <leafnode>
-                                This is the leaf node of this hierarchy Sujan
-                line2 -- line6   commit1
-                line3 -- line7   commit 2  
+                                line1
                 
             </leafnode>
         </parent2>
