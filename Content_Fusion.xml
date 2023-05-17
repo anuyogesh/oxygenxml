@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<content>demo change from content fusion  </content>
+
+<root>
+    <content>demo change from content fusion  </content>
+    
+    <line>line No. 2</line>
+    
+    
+</root>
+
